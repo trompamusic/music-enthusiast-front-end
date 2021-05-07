@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 35 35" style="width: 100%; height: 100%;"><desc>Made with illustrio</desc>
+  
+<g class="base"><g fill="none" fill-rule="evenodd" stroke="none" class="main-fill">
+    
+    
+    <path fill="none" d="M17.2941176,0.149132941 C7.74284412,0.149132941 0,7.89201 0,17.4432506 C0,26.9945035 7.74284453,34.7373682 17.2941176,34.7373682 C26.8453961,34.7373682 34.5882353,26.9945035 34.5882353,17.4432506 C34.5882353,7.89201 26.8453961,0.149132941 17.2941176,0.149132941 Z M13.5882353,9.61972118 C13.8897924,9.61972118 14.3631855,9.78968941 14.8235294,10.0314859 C17.3416621,11.4055818 23.4788112,15.1307265 25.1176471,16.2079565 C25.5494976,16.4954259 25.9411765,16.8170388 25.9411765,17.4432506 C25.9411765,18.0694212 25.5494976,18.3910918 25.1176471,18.6785447 C23.4788112,19.7558035 17.3416621,23.4809565 14.8235294,24.8550153 C14.3631855,25.0968447 13.8897924,25.26678 13.5882353,25.26678 C12.9744127,25.26678 12.7917465,24.8821918 12.7647059,24.0314859 L12.7647059,10.8550153 C12.7917465,10.0043465 12.9744127,9.61972118 13.5882353,9.61972118 Z" transform="translate(0 0)" stroke="none" class="main-fill"></path>
+  </g></g><style>
+          .main-fill {fill: #f65c2e;}
+          .main-stroke {stroke: #f65c2e;}
+          .secondary-fill {fill: #fff;}
+          .secondary-stroke {stroke: #fff;}
+
+          .main-fill--darken {fill: #b84100;}
+          .main-stroke--darken {stroke: #b84100;}
+          .secondary-fill--darken {fill: #d9d9d9;}
+          .secondary-stroke--darken {stroke: #d9d9d9;}
+
+          .main-fill--darkener {fill: #852f00;}
+          .main-stroke--darkener {stroke: #852f00;}
+          .secondary-fill--darkener {fill: #bfbfbf;}
+          .secondary-stroke--darkener {stroke: #bfbfbf;}
+        </style></svg>

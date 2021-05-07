@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="18 18 70 70" style="width: 100%; height: 100%;"><desc>Made with illustrio</desc>
+  
+<g class="base"><g fill="none" fill-rule="evenodd" stroke="none" class="main-fill">
+    
+    <path fill="none" d="M16,0 C7.164,0 0,7.164 0,16 C0,24.836 7.164,32 16,32 C24.836,32 32,24.836 32,16 C32,7.164 24.836,0 16,0 Z M10,22 L10,18.002 L14,22 L10,22 Z M16,20.002 L12,16.002 L18,10.002 L22,14.002 L16,20.002 Z" transform="translate(19 19)" stroke="none" class="main-fill"></path>
+  </g></g><style>
+          .main-fill {fill: #eb5115;}
+          .main-stroke {stroke: #eb5115;}
+          .secondary-fill {fill: #fff;}
+          .secondary-stroke {stroke: #fff;}
+
+          .main-fill--darken {fill: #a5390e;}
+          .main-stroke--darken {stroke: #a5390e;}
+          .secondary-fill--darken {fill: #d9d9d9;}
+          .secondary-stroke--darken {stroke: #d9d9d9;}
+
+          .main-fill--darkener {fill: #76280a;}
+          .main-stroke--darkener {stroke: #76280a;}
+          .secondary-fill--darkener {fill: #bfbfbf;}
+          .secondary-stroke--darkener {stroke: #bfbfbf;}
+        </style></svg>
