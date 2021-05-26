@@ -133,11 +133,13 @@ export default function DualSelector({field, updateAnnotation, labels}) {
     appendSections(sections, labels, setValue);
   }, [labels]);
 
+
   useEffect(() => {
     const svg = d3.select(d3Container.current);
     const pointer = svg.select("#pointer");
     assignRotation(pointer, value);
     updateAnnotation(field, value);
+    // eslint-disable-next-line
   }, [field, value]);
 
   return (<svg

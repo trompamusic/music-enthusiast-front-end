@@ -53,7 +53,9 @@ export const authenticatedUserLogin = (accepted, provider) => {
   const url = USER_AUTH[provider.toUpperCase()].ACCEPTED_TERMS;
   if (url) {
     auth.currentSession().then(userData => {
-      const token = userData && userData.authorization && userData.authorization.id_token;
+      let token = null;
+      if (userData && userData.authorization && userData.authorization.id_token)
+        token = userData.authorization.id_token;
       const formData = new FormData();
       formData.append('terms_and_conditions', accepted);
       auth.fetch(url, {
